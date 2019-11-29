@@ -6,6 +6,6 @@ To run our code, please execute the following commands:
 
 `make`
 
-`./test`
+`./lhe`
 
 NOTE:: In the 'build' folder, we have submitted a precomputed ElGamal decryption table file.
