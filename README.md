@@ -24,3 +24,9 @@ To run our code, please execute the following commands:
 `./lhe`
 
 NOTE: You need to first generate the lookup table for the above tests to run successfully. Please check `test.cpp` for details.
+
+## Disclaimer
+There is no guarantee that this code is bug-free or has production-level security. Use it at your own risk.
+
+## Contact
+zhicong303 AT gmail.com
